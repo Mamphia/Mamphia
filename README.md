@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mamadu Jalloh]!
+# 👋 Hi, I'm Mamadu Jalloh
 
 I have a **B.Sc. in Physics** from **Fourah Bay College** and recently completed the **TripleTen Data Science Bootcamp**, where I specialized in **machine learning, data analytics, and predictive modeling**. I’m passionate about **solving real-world problems through data-driven insights** and bridging the gap between **physics, engineering, and AI**.
 
